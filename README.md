@@ -9,3 +9,4 @@
 * 预训练模型PNASNet模型是在ImagNet数据集上训练好的，在利用模型进行分类时，还需要配合与其对应的标签文件一起使用。在Slim文件夹中，将获得标签文件的封装到了代码里面，在使用时直接调用即可。
 
 ### 将预训练模型文件、Slim文件、代码文件、中文标签都准备好了，其目录文件结构如图所示。
+![](https://github.com/lidianxiang/Cat_or_Dog/blob/master/%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E5%9B%BE.png?raw=true)
