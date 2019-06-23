@@ -1,4 +1,5 @@
 # Cat_or_Dog
+![](https://github.com/lidianxiang/Cat_or_Dog/blob/master/filename3.jpg?raw=true)
 
 ## 利用AI模型（PNASNET模型）识别图像是桌子、猫、狗还是其它
 
